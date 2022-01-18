@@ -9,4 +9,3 @@ Modif locale 2 !
 
 =======
 # test1
->>>>>>> 7299ed5ba7488201e21e37f9e16fc102a7ed2d90
